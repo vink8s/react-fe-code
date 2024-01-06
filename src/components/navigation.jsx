@@ -29,7 +29,7 @@ export const Navigation = (props) => {
           <ul className="nav navbar-nav navbar-right">
             <li>
               <a href="#features" className="page-scroll">
-                Features
+                Courses
               </a>
             </li>
             <li>
@@ -60,6 +60,11 @@ export const Navigation = (props) => {
             <li>
               <a href="#contact" className="page-scroll">
                 Contact
+              </a>
+            </li>
+            <li>
+              <a href="https://0t7cui9bygg.typeform.com/to/NuYqLShm">
+                Join Us
               </a>
             </li>
           </ul>
