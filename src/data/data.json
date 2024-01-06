@@ -67,17 +67,17 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-ship",
       "name": "English Proficiency Courses",
       "text": "Comprehensive programs designed to elevate your English proficiency to meet cruise industry standards."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-ship",
       "name": "Specialized Maritime Vocabulary",
       "text": "Master the specific terminology and communication skills required for the maritime environment."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-ship",
       "name": "Mock Interviews and Role-plays",
       "text": "Prepare for real-world interactions through simulated interviews and role-playing exercises."
     }
