@@ -7,8 +7,7 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          At Miami Cruise Training Center, we offer a range of specialized services designed to equip you with the language proficiency and practical skills needed to excel in the competitive world of cruise ship employment. Our comprehensive services go beyond traditional language education, providing a holistic approach to your preparation for a successful career at sea.
           </p>
         </div>
         <div className="row">

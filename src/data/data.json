@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "We are Miami Cruise Training Center",
+    "paragraph": "At Miami Cruise Training Center, we are dedicated to helping you reach your dream of embarking on a successful career aboard cruise ships. Our commitment to quality ensures that you receive the best language education tailored for the maritime industry."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Miami Cruise Training Center is a leading institution specializing in English language preparation for aspiring cruise ship professionals. With a team of experienced educators and a proven track record, we empower individuals with the linguistic skills necessary for success in the maritime world.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Industry Expertise",
+      "Customized Curriculum",
+      "Real-world Simulations",
+      "Committed to Quality"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Career Guidance",
+      "Holistic Development",
+      "Industry Connections:",
+      "Exclusive Events and Workshops"
     ]
   },
   "Gallery": [
@@ -68,33 +68,18 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "English Proficiency Courses",
+      "text": "Comprehensive programs designed to elevate your English proficiency to meet cruise industry standards."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Specialized Maritime Vocabulary",
+      "text": "Master the specific terminology and communication skills required for the maritime environment."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Mock Interviews and Role-plays",
+      "text": "Prepare for real-world interactions through simulated interviews and role-playing exercises."
     }
   ],
   "Testimonials": [
@@ -133,26 +118,26 @@
     {
       "img": "img/team/01.jpg",
       "name": "John Doe",
-      "job": "Director"
+      "job": "English Instructor"
     },
     {
       "img": "img/team/02.jpg",
       "name": "Mike Doe",
-      "job": "Senior Designer"
+      "job": "English Instructor"
     },
     {
       "img": "img/team/03.jpg",
       "name": "Jane Doe",
-      "job": "Senior Designer"
+      "job": "English Instructor"
     },
     {
       "img": "img/team/04.jpg",
       "name": "Karen Doe",
-      "job": "Project Manager"
+      "job": "English Instructor"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "Jl. Kapten Mudita No.16, Cempaga, Kec. Bangli, Kabupaten Bangli, Bali 80614",
     "phone": "+1 123 456 1234",
     "email": "info@company.com",
     "facebook": "fb.com",
@@ -162,23 +147,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Experienced Instructors",
+      "text": "Learn from skilled and experienced instructors dedicated to your success."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Flexible Learning Options",
+      "text": "Choose from a variety of flexible learning options that fit your schedule."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Personalized Learning Paths",
+      "text": "Tailor your learning journey based on your individual needs and goals."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Progress Monitoring",
+      "text": "Track your progress with regular assessments and feedback sessions."
     }
   ]
 }

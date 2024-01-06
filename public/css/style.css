@@ -82,7 +82,7 @@ hr {
 }
 #menu a.navbar-brand {
   font-family: "Raleway", sans-serif;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 700;
   color: #333;
   text-transform: uppercase;
@@ -247,6 +247,7 @@ header .intro-text {
 /* Features Section */
 #features {
   background: #f6f6f6;
+  padding: 100px 0;
 }
 #features i.fa {
   font-size: 38px;
