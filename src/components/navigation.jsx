@@ -58,13 +58,13 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href="#contact" className="page-scroll">
-                Contact
+              <a href="#join" className="page-scroll">
+                Join Us
               </a>
             </li>
             <li>
-              <a href="https://0t7cui9bygg.typeform.com/to/NuYqLShm">
-                Join Us
+              <a href="#contact" className="page-scroll">
+                Contact
               </a>
             </li>
           </ul>

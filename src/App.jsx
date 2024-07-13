@@ -1,3 +1,4 @@
+// src/App.jsx
 import React, { useState, useEffect } from "react";
 import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
@@ -10,6 +11,7 @@ import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
+import JoinUsPage from "./components/join-us"; // Ensure the path and name are correct
 import "./App.css";
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
@@ -33,6 +35,7 @@ const App = () => {
       <Gallery data={landingPageData.Gallery} />
       <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} />
+      <JoinUsPage data={landingPageData.JoinUsPage} />
       <Contact data={landingPageData.Contact} />
     </div>
   );
