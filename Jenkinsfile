@@ -3,10 +3,10 @@ pipeline {
 
     environment {
         PROJECT_ID   = ""  // Add the GCP Project ID 
-        REGION       = "asia-south1"    // Cloud Run region
-        REPO_NAME    = "genai-chatbot"      // Artifact Registry repo name
-        SERVICE_NAME = "fe-chabot"    // Cloud Run service name
-        IMAGE_NAME   = "fe-chatbot"
+        REGION       = ""    // Cloud Run region
+        REPO_NAME    = ""      // Artifact Registry repo name
+        SERVICE_NAME = ""    // Cloud Run service name
+        IMAGE_NAME   = ""
         GAR_IMAGE    = "${REGION}-docker.pkg.dev/${PROJECT_ID}/${REPO_NAME}/${IMAGE_NAME}:${BUILD_NUMBER}"
         // Variable to hold the name of the PREVIOUS successful revision for rollback
         PREVIOUS_REVISION = ""
